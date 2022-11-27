@@ -41,6 +41,8 @@
         </dependency>
 
     </dependencies>
-
+    <build>
+        <finalName>cucumberbasic</finalName>
+    </build>
     
 </project>
